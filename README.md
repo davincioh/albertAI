@@ -44,5 +44,8 @@ albert AI는 사람과 로봇 간의 소통이 필요한 다양한 상황에 빠
 
 관련자료
 ---
+- [albert AI 제품메뉴얼](https://www.nugu.co.kr/static/nugu_albert/)
 - [NUGU 기술자료](https://www.slideshare.net/NUGU_developers?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
+
+
 
