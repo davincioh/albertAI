@@ -9,7 +9,7 @@
 - 사용자의 자연어 요청을 이해하고 의도를 파악하여 정보를 제공하는 AI 시스템
 - 6종 센서로 외부환경을 인지하고 스테핑모터로 정밀한 위치제어 가능
 - 눈동자의 Full Color LED로 다양한 상태표현이 가능하며 3.5W 스피커로 고품질 음원재생 가능
-- 나만의 대화시스템을 손쉽게 구현하고 연구할 수 있는 My Q&A, NUGU play kit(예정) 제공 
+- 나만의 대화시스템을 손쉽게 구현하고 연구할 수 있는 My Q&A, NUGU play Builder(예정) 제공 
 
 
 활용방법
@@ -23,7 +23,9 @@ albert AI는 사람과 로봇 간의 소통이 필요한 다양한 상황에 빠
 주요기술
 ---
 - Natural User Interface
+   - Keyword Spotting, ASR, NLU, NLG, TTS
 - Intelligence 
+   - 검색 기술, 요약 기술, 통합 지식베이스, 추천 기술
 
 
 
@@ -31,7 +33,7 @@ albert AI는 사람과 로봇 간의 소통이 필요한 다양한 상황에 빠
 --
 - My Q&A
    - NUGU Mobile App에서 나만의 음성 명령을 등록하여 로봇에서 즉시 확인할 수 있습니다.
-- NUGU play kit
+- NUGU play Builder
    - 대화시스템 통합 개발 환경을 GUI 기반으로 제공함으로써, 사용자들은 쉽게 자신들의 서비스를 개발할 수 있습니다. 
 
 
