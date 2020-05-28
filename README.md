@@ -44,4 +44,5 @@ albert AI는 사람과 로봇 간의 소통이 필요한 다양한 상황에 빠
 
 관련자료
 ---
+[NUGU 기술자료 Slide](https://www.slideshare.net/NUGU_developers?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview)
 
