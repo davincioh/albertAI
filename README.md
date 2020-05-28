@@ -24,6 +24,8 @@ albert AI는 사람과 로봇 간의 소통이 필요한 다양한 상황에 빠
 
 주요기술
 ---
+![albert AI 주요기술](./images/albert04.png)
+
 - Natural User Interface
    - Keyword Spotting, ASR, NLU, NLG, TTS
 - Intelligence 
