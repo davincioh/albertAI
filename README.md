@@ -54,9 +54,9 @@ albert AI는 사람과 로봇 간의 소통이 필요한 다양한 상황에 빠
 - My Q&A
    - Mobile App에서 나만의 음성 명령을 등록하여 로봇에서 즉시 확인할 수 있습니다.
    - [My Q&A 사용방법](https://github.com/davincioh/SocialRobotPlatform_albertAI_MyQA)
-- NUGU 서비스 활용
+- NUGU 서비스 
    - 대화시나리오를 풍부하게 도와주는 NUGU 서비스 활용하기
-   -  
+   - [NUGU 서비스 사용방법](https://github.com/davincioh/SocialRobotPlatform_albertAI_NUGUService) 
 - NUGU play Builder 
    - 대화시스템 통합 개발 환경을 GUI 기반으로 제공함으로써, 사용자들은 쉽게 자신들의 서비스를 개발할 수 있습니다. 
    - NUGU Play Builder 사용방법 (오픈예정)
