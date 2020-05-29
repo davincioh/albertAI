@@ -12,6 +12,9 @@
 - 대화가 가능한 로봇이 필요한 곳에 albert AI를 활용해 보세요. 이 로봇은 사람의 말을 듣고 이해하며 알버트 목소리로 대답하고 공감합니다. 
 - 로봇의 지능수준이 인간을 따라잡기에는 시간이 더 필요할 것 같습니다. 이 프로젝트로 HRI 연구에 유용하게 활용되길 희망합니다. 
 
+[![albertAI](http://img.youtube.com/vi/BBwEDB0dmBo/0.jpg)](https://youtu.be/BBwEDB0dmBo)
+  
+
 
 특성
 ---
