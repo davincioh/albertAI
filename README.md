@@ -22,7 +22,8 @@ albert AI는 첨단기술이 집약된 하드웨어와 AI기술을 바탕으로 
 - 사용자의 자연어 요청을 이해하고 의도를 파악하여 정보를 제공하는 AI 시스템
 - 6종 센서로 외부환경을 인지하고 스테핑모터로 정밀한 위치제어 가능
 - 눈동자의 Full Color LED로 다양한 상태표현이 가능하며 3.5W 스피커로 고품질 음원재생 가능
-- 나만의 대화시스템을 손쉽게 구현하고 연구할 수 있는 My Q&A, NUGU play Builder(예정) 제공
+- 모바일앱에서 간단하고 빠르게 나만의 대화 시나리오를 추가(My Q&A 기능)및 테스트 
+- 나만의 대화시스템을 손쉽게 구현하고 연구할 수 있는 NUGU play Builder(예정) 제공
 - Backend proxy(REST API)로 나의 콘텐츠를 로봇과 연동하고 외부 서비스와 기기를 호출&응답 (예정)
 
 
@@ -51,7 +52,7 @@ albert AI는 사람과 로봇 간의 소통이 필요한 다양한 상황에 빠
    - Mobile App을 통해 ‘텍스트 명령’을 이용할 수 있습니다. 디바이스에 직접 음성명령을 내리는 것과 동일한 효과와 결과를 보여줍니다.
    - [디바이스 컨트롤러 사용방법](https://github.com/davincioh/SocialRobotPlatform_albertAI_DeviceController)
 - My Q&A
-   - NUGU Mobile App에서 나만의 음성 명령을 등록하여 로봇에서 즉시 확인할 수 있습니다.
+   - Mobile App에서 나만의 음성 명령을 등록하여 로봇에서 즉시 확인할 수 있습니다.
    - [My Q&A 사용방법](https://github.com/davincioh/SocialRobotPlatform_albertAI_MyQA)
 - 개인화 서비스 설정
 - NUGU play Builder 
