@@ -49,7 +49,7 @@ albert AI는 사람과 로봇 간의 소통이 필요한 다양한 상황에 빠
 --
 - 디바이스 컨트롤러 
    - albert AI 로봇에 음성명령을 직접 발화하는대신 모바일 앱을 통해 ‘텍스트 명령’ 으로 명령 할 수 있습니다.
-   - 디바이스 컨트롤러 사용방법
+   - [디바이스 컨트롤러 사용방법](https://github.com/davincioh/SocialRobotPlatform_albertAI_DeviceController)
 - My Q&A
    - NUGU Mobile App에서 나만의 음성 명령을 등록하여 로봇에서 즉시 확인할 수 있습니다.
    - [My Q&A 사용방법](https://github.com/davincioh/SocialRobotPlatform_albertAI_MyQA)
